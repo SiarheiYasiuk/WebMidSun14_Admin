@@ -84,7 +84,7 @@
             "id": 2,
             "name": "Ноутбук Lenovo IdeaPad 3",
             "price": 600,
-            "photo": "",
+            "photo": "https://github.com/SiarheiYasiuk/WebMidSun14_Admin/blob/main/img/laptopfor200byn.jpg?raw=true",
             "desc": "15.6-дюймовый ноутбук с процессором AMD Ryzen 5, 8 ГБ ОЗУ и SSD на 256 ГБ.",
             "author_id": 1
         },
