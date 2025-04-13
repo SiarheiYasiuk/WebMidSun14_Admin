@@ -4,70 +4,70 @@
             "id": 1,
             "name": "Andrey",
             "surname": "Belousov",
-            "photo": "",
+            "photo": "https://github.com/SiarheiYasiuk/WebMidSun14_Admin/blob/main/img/1.jpg?raw=true",
             "balance": 1500
         },
         {
             "id": 2,
             "name": "Alexey",
             "surname": "Ivanov",
-            "photo": "",
+            "photo": "https://github.com/SiarheiYasiuk/WebMidSun14_Admin/blob/main/img/10.jpg?raw=true",
             "balance": 2300
         },
         {
             "id": 3,
             "name": "Dmitry",
             "surname": "Petrov",
-            "photo": "",
+            "photo": "https://github.com/SiarheiYasiuk/WebMidSun14_Admin/blob/main/img/2.jpg?raw=true",
             "balance": 1750
         },
         {
             "id": 4,
             "name": "Anna",
             "surname": "Sidorova",
-            "photo": "",
+            "photo": "https://github.com/SiarheiYasiuk/WebMidSun14_Admin/blob/main/img/3.jpg?raw=true",
             "balance": 3000
         },
         {
             "id": 5,
             "name": "Olga",
             "surname": "Kuznetsova",
-            "photo": "",
+            "photo": "https://github.com/SiarheiYasiuk/WebMidSun14_Admin/blob/main/img/4.jpg?raw=true",
             "balance": 1200
         },
         {
             "id": 6,
             "name": "Ivan",
             "surname": "Smirnov",
-            "photo": "",
+            "photo": "https://github.com/SiarheiYasiuk/WebMidSun14_Admin/blob/main/img/5.jpg?raw=true",
             "balance": 2500
         },
         {
             "id": 7,
             "name": "Elena",
             "surname": "Popova",
-            "photo": "",
+            "photo": "https://github.com/SiarheiYasiuk/WebMidSun14_Admin/blob/main/img/6.jpg?raw=true",
             "balance": 1800
         },
         {
             "id": 8,
             "name": "Pavel",
             "surname": "Volkov",
-            "photo": "",
+            "photo": "https://github.com/SiarheiYasiuk/WebMidSun14_Admin/blob/main/img/7.jpg?raw=true",
             "balance": 2100
         },
         {
             "id": 9,
             "name": "Tatiana",
             "surname": "Kozlova",
-            "photo": "",
+            "photo": "https://github.com/SiarheiYasiuk/WebMidSun14_Admin/blob/main/img/8.jpg?raw=true",
             "balance": 1400
         },
         {
             "id": 10,
             "name": "Nikolay",
             "surname": "Morozov",
-            "photo": "",
+            "photo": "https://github.com/SiarheiYasiuk/WebMidSun14_Admin/blob/main/img/9.jpg?raw=true",
             "balance": 1900
         }
     ],
@@ -76,7 +76,7 @@
             "id": 1,
             "name": "Смартфон Xiaomi Redmi Note 10",
             "price": 200,
-            "photo": "",
+            "photo": "https://github.com/SiarheiYasiuk/WebMidSun14_Admin/blob/main/img/evie-s-MicqqGyDQ6w-unsplash.jpg?raw=true",
             "desc": "Смартфон с AMOLED-дисплеем 6.43 дюйма, 48 МП камера и батареей 5000 мАч.",
             "author_id": 1
         },
@@ -92,7 +92,7 @@
             "id": 3,
             "name": "Наушники Sony WH-1000XM4",
             "price": 350,
-            "photo": "",
+            "photo": "https://github.com/SiarheiYasiuk/WebMidSun14_Admin/blob/main/img/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.jpg?raw=true",
             "desc": "Беспроводные наушники с шумоподавлением и временем работы до 30 часов.",
             "author_id": 9
         },
@@ -100,7 +100,7 @@
             "id": 4,
             "name": "Фитнес-браслет Xiaomi Mi Band 6",
             "price": 50,
-            "photo": "",
+            "photo": "https://github.com/SiarheiYasiuk/WebMidSun14_Admin/blob/main/img/jurica-koletic-7YVZYZeITc8-unsplash.jpg?raw=true",
             "desc": "Фитнес-трекер с AMOLED-дисплеем, мониторингом сна и пульса.",
             "author_id": 8
         },
@@ -108,7 +108,7 @@
             "id": 5,
             "name": "Кофемашина DeLonghi EC685",
             "price": 250,
-            "photo": "",
+            "photo": "https://github.com/SiarheiYasiuk/WebMidSun14_Admin/blob/main/img/kevin-lanceplaine-sO-JmQj95ec-unsplash.jpg?raw=true",
             "desc": "Компактная кофемашина для приготовления эспрессо и капучино.",
             "author_id": 6
         },
@@ -116,7 +116,7 @@
             "id": 6,
             "name": "Электросамокат Xiaomi Mi Electric Scooter 3",
             "price": 450,
-            "photo": "",
+            "photo": "https://github.com/SiarheiYasiuk/WebMidSun14_Admin/blob/main/img/p-j-6J--NXulQCs-unsplash.jpg?raw=true",
             "desc": "Электросамокат с запасом хода до 30 км и максимальной скоростью 25 км/ч.",
             "author_id": 2
         },
@@ -124,7 +124,7 @@
             "id": 7,
             "name": "Умная колонка Яндекс.Станция Мини",
             "price": 100,
-            "photo": "",
+            "photo": "https://github.com/SiarheiYasiuk/WebMidSun14_Admin/blob/main/img/ronnie-george-9gGvNWBeOq4-unsplash.jpg?raw=true",
             "desc": "Умная колонка с голосовым помощником Алисой и поддержкой потоковой музыки.",
             "author_id": 3
         },
@@ -132,7 +132,7 @@
             "id": 8,
             "name": "Электрочайник Bosch TWK 8611",
             "price": 70,
-            "photo": "",
+            "photo": "https://github.com/SiarheiYasiuk/WebMidSun14_Admin/blob/main/img/scott-graham-5fNmWej4tAA-unsplash.jpg?raw=true",
             "desc": "Электрочайник с мощностью 2400 Вт и объемом 1.7 литра.",
             "author_id": 9
         },
@@ -140,7 +140,7 @@
             "id": 9,
             "name": "Робот-пылесос Xiaomi Mi Robot Vacuum-Mop 2",
             "price": 300,
-            "photo": "",
+            "photo": "https://github.com/SiarheiYasiuk/WebMidSun14_Admin/blob/main/img/sigmund-MQ2xYBHImKM-unsplash.jpg?raw=true",
             "desc": "Робот-пылесос с функцией мытья полов и временем работы до 110 минут.",
             "author_id": 4
         },
@@ -148,7 +148,7 @@
             "id": 10,
             "name": "Монитор Samsung Odyssey G5",
             "price": 400,
-            "photo": "",
+            "photo": "https://github.com/SiarheiYasiuk/WebMidSun14_Admin/blob/main/img/sigmund-MQ2xYBHImKM-unsplash.jpg?raw=true",
             "desc": "Игровой монитор с диагональю 27 дюймов, разрешением 2560x1440 и частотой 144 Гц.",
             "author_id": 5
         }
